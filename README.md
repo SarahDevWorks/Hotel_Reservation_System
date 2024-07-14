@@ -69,13 +69,9 @@ private static final String pass = "";
 
 Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or suggestions, feel free to reach out to me via LinkedIn or email.
+For any questions or suggestions, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/sarah-khatun-a5817a2b6) or [email](mailto:sarahkhatun18@gmail.com).
 
 ---
 
